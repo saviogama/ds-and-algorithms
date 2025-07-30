@@ -1,17 +1,17 @@
-# Algoritmos e Estruturas de Dados II - 2017.2
+# Data Structures and Algorithms - 2017
 
-> Neste repositório estão disponíveis algumas estruturas de dados em C, implementadas conforme a orientação do professor Rian Gabriel Pinheiro (UAG - UFRPE).
+> This repository contains several data structures in C, implemented as requested by Professor Dr. Rian Gabriel Pinheiro (UAG - UFRPE).
 
-**Estruturas:**
+**Data Structures:**
 
--   AVL
--   Rubro-Negra
--   Heap
--   Hash
+- AVL
+- Red-Black
+- Heap
+- Hash
 
-**Grafos:**
+**Graphs:**
 
--   Prim
--   Kruskal
--   Dijkstra
--   Floyd-Warshall
+- Prim
+- Kruskal
+- Dijkstra
+- Floyd-Warshall
